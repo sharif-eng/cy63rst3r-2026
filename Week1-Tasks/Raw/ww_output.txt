@@ -1,0 +1,113 @@
+WhatWeb report for [1m[34mhttps://hackthissite.org[0m
+Status    : 200 OK
+Title     : [1m[33mHack This Site[0m
+IP        : 137.74.187.100
+Country   : [1m[31mCANADA, CA[0m
+
+Summary   : [1mContent-Language[0m[[0m[22men[0m], [1mCookies[0m[[0m[22mHackThisSite[0m], [1mHTTPServer[0m[[1m[36mHackThisSite[0m], [1mJQuery[0m[[1m[32m1.8.1[0m], [1mMeta-Author[0m[[0m[22mHackThisSite.org Staff[0m], [1mOpen-Graph-Protocol[0m[[1m[32mwebsite[0m], [1mPasswordField[0m[[0m[22mpassword[0m], [1mScript[0m[[0m[22mtext/javascript[0m], [1mStrict-Transport-Security[0m[[0m[22mmax-age=31536000; includeSubDomains; preload[0m], [1mUncommonHeaders[0m[[0m[22mupgrade,onion-location,access-control-allow-origin,content-security-policy,referrer-policy,feature-policy,public-key-pins-report-only,report-to,nel[0m], [1mX-XSS-Protection[0m[[0m[22m0[0m]
+
+Detected Plugins:
+[ [1mContent-Language[0m ]
+	Detect the content-language setting from the HTTP header. 
+
+	String       : [1m[36men[0m
+
+[ [1mCookies[0m ]
+	Display the names of cookies in the HTTP headers. The 
+	values are not returned to save on space. 
+
+	String       : [1m[36mHackThisSite[0m
+
+[ [1mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	String       : [1m[36mHackThisSite[0m (from server string)
+
+[ [1mJQuery[0m ]
+	A fast, concise, JavaScript that simplifies how to traverse 
+	HTML documents, handle events, perform animations, and add 
+	AJAX. 
+
+	Version      : [1m[32m1.8.1[0m
+	Website     : http://jquery.com/
+
+[ [1mMeta-Author[0m ]
+	This plugin retrieves the author name from the meta name 
+	tag - info: 
+	http://www.webmarketingnow.com/tips/meta-tags-uncovered.html
+	#author
+
+	String       : [1m[36mHackThisSite.org Staff[0m
+
+[ [1mOpen-Graph-Protocol[0m ]
+	The Open Graph protocol enables you to integrate your Web 
+	pages into the social graph. It is currently designed for 
+	Web pages representing profiles of real-world things . 
+	things like movies, sports teams, celebrities, and 
+	restaurants. Including Open Graph tags on your Web page, 
+	makes your page equivalent to a Facebook Page. 
+
+	Version      : [1m[32mwebsite[0m
+
+[ [1mPasswordField[0m ]
+	find password fields 
+
+	String       : [1m[36mpassword[0m (from field name)
+
+[ [1mScript[0m ]
+	This plugin detects instances of script HTML elements and 
+	returns the script language/type. 
+
+	String       : [1m[36mtext/javascript[0m
+
+[ [1mStrict-Transport-Security[0m ]
+	Strict-Transport-Security is an HTTP header that restricts 
+	a web browser from accessing a website without the security 
+	of the HTTPS protocol. 
+
+	String       : [1m[36mmax-age=31536000; includeSubDomains; preload[0m
+
+[ [1mUncommonHeaders[0m ]
+	Uncommon HTTP server headers. The blacklist includes all 
+	the standard headers and many non standard but common ones. 
+	Interesting but fairly common headers should have their own 
+	plugins, eg. x-powered-by, server and x-aspnet-version. 
+	Info about headers can be found at www.http-stats.com 
+
+	String       : [1m[36mupgrade,onion-location,access-control-allow-origin,content-security-policy,referrer-policy,feature-policy,public-key-pins-report-only,report-to,nel[0m (from headers)
+
+[ [1mX-XSS-Protection[0m ]
+	This plugin retrieves the X-XSS-Protection value from the 
+	HTTP header. - More Info: 
+	http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+	aspx
+
+	String       : [1m[36m0[0m
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 04 Mar 2026 14:18:15 GMT
+	Upgrade: h2,h2c
+	Connection: Upgrade, close
+	Set-Cookie: HackThisSite=usv1lnjj0j2pgohsncaj2hka73; expires=Thu, 05-Mar-2026 14:18:15 GMT; path=/
+	Expires: Thu, 19 Nov 1981 08:52:00 GMT
+	Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+	Pragma: no-cache
+	Onion-Location: http://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion/
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 6531
+	Content-Type: text/html
+	Content-Language: en
+	Server: HackThisSite
+	Access-Control-Allow-Origin: *
+	Content-Security-Policy: child-src 'self' hackthissite.org *.hackthissite.org htscdn.org *.htscdn.org discord.com; form-action 'self' hackthissite.org *.hackthissite.org htscdn.org *.htscdn.org; upgrade-insecure-requests; report-uri https://hackthissite.report-uri.com/r/d/csp/enforce
+	Referrer-Policy: origin-when-cross-origin
+	X-XSS-Protection: 0
+	Feature-Policy: fullscreen *
+	Public-Key-Pins-Report-Only: pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; max-age=2592000; includeSubDomains; report-uri="https://hackthissite.report-uri.com/r/d/hpkp/reportOnly"
+	Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+	Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://hackthissite.report-uri.com/a/d/g"}],"include_subdomains":true}
+	NEL: {"report_to":"default","max_age":31536000,"include_subdomains":true,"success_fraction":0.0,"failure_fraction":0.1}
+	

@@ -1,0 +1,440 @@
+0-v3dev-cdn.hackthissite.org
+0-v3dev-cdn.hackthissite.org (FQDN) --> cname_record --> v3dev.hackthissite.org (FQDN)
+0-v3stage-cdn.hackthissite.org
+0-v3stage-cdn.hackthissite.org (FQDN) --> cname_record --> v3stage-cdn.hackthissite.org (FQDN)
+100.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> hackthissite.org (FQDN)
+103.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> hackthissite.org (FQDN)
+104.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> hackthissite.org (FQDN)
+115.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> api.hackthissite.org (FQDN)
+116.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> api.hackthissite.org (FQDN)
+117.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> api.hackthissite.org (FQDN)
+118.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> api.hackthissite.org (FQDN)
+119.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> api.hackthissite.org (FQDN)
+123.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> pi.hackthissite.org (FQDN)
+133.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> mirror.hackthissite.org (FQDN)
+134.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> mirror.hackthissite.org (FQDN)
+135.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> stats.hackthissite.org (FQDN)
+137.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> legal.hackthissite.org (FQDN)
+138.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> legal.hackthissite.org (FQDN)
+145.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> git.hackthissite.org (FQDN)
+146.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> staff.hackthissite.org (FQDN)
+150.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> lille.irc.hackthissite.org (FQDN)
+152.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> lille.irc.hackthissite.org (FQDN)
+153.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> www.irc.hackthissite.org (FQDN)
+154.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> vm-005.outbound.firewall.hackthissite.org (FQDN)
+155.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> vm-050.outbound.firewall.hackthissite.org (FQDN)
+157.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> vm-200.outbound.firewall.hackthissite.org (FQDN)
+158.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> vm-150.outbound.firewall.hackthissite.org (FQDN)
+159.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> vm-099.outbound.firewall.hackthissite.org (FQDN)
+1-v3dev-cdn.hackthissite.org
+1-v3dev-cdn.hackthissite.org (FQDN) --> cname_record --> v3dev.hackthissite.org (FQDN)
+1-v3stage-cdn.hackthissite.org
+1-v3stage-cdn.hackthissite.org (FQDN) --> cname_record --> v3stage-cdn.hackthissite.org (FQDN)
+2-v3dev-cdn.hackthissite.org
+2-v3dev-cdn.hackthissite.org (FQDN) --> cname_record --> v3dev.hackthissite.org (FQDN)
+2-v3stage-cdn.hackthissite.org
+2-v3stage-cdn.hackthissite.org (FQDN) --> cname_record --> v3stage-cdn.hackthissite.org (FQDN)
+[32m[+][0m Output saved in output/domain.hackthissite.org.txt
+3-v3dev-cdn.hackthissite.org
+3-v3dev-cdn.hackthissite.org (FQDN) --> cname_record --> v3dev.hackthissite.org (FQDN)
+3-v3stage-cdn.hackthissite.org
+3-v3stage-cdn.hackthissite.org (FQDN) --> cname_record --> v3stage-cdn.hackthissite.org (FQDN)
+4-v3dev-cdn.hackthissite.org
+4-v3dev-cdn.hackthissite.org (FQDN) --> cname_record --> v3dev.hackthissite.org (FQDN)
+4-v3stage-cdn.hackthissite.org
+4-v3stage-cdn.hackthissite.org (FQDN) --> cname_record --> v3stage-cdn.hackthissite.org (FQDN)
+[92m0.0.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92m0-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3dev.hackthissite.org[0m[94m (FQDN)[0m
+[92m0-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92m100.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92m102.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92m103.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92m104.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92m115.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mapi.hackthissite.org[0m[94m (FQDN)[0m
+[92m116.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mapi.hackthissite.org[0m[94m (FQDN)[0m
+[92m118.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mapi.hackthissite.org[0m[94m (FQDN)[0m
+[92m13.222.24.185.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mwolf.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92m137.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mlegal.hackthissite.org[0m[94m (FQDN)[0m
+[92m138.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mlegal.hackthissite.org[0m[94m (FQDN)[0m
+[92m146.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mstaff.hackthissite.org[0m[94m (FQDN)[0m
+[92m150.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92m153.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mwww.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92m154.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mvm-005.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m
+[92m1-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3dev.hackthissite.org[0m[94m (FQDN)[0m
+[92m1-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92m2-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3dev.hackthissite.org[0m[94m (FQDN)[0m
+[92m2-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92m3.0.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92m3.2.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mpi.hackthissite.org[0m[94m (FQDN)[0m
+[92m3-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3dev.hackthissite.org[0m[94m (FQDN)[0m
+[92m3-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92m4.0.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92m4.3.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mmirror.hackthissite.org[0m[94m (FQDN)[0m
+[92m4-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3dev.hackthissite.org[0m[94m (FQDN)[0m
+[92m4-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92m5.0.7.f.8.6.e.f.f.f.a.4.a.1.2.0.0.0.0.0.9.0.0.0.0.7.7.2.2.0.a.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mwolf.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92m5.1.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mapi.hackthissite.org[0m[94m (FQDN)[0m
+[92m5.4.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mgit.hackthissite.org[0m[94m (FQDN)[0m
+[92m6.4.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mstaff.hackthissite.org[0m[94m (FQDN)[0m
+[92m7.1.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mapi.hackthissite.org[0m[94m (FQDN)[0m
+[92m9.1.1.0.7.8.1.0.4.7.0.0.7.3.1.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mapi.hackthissite.org[0m[94m (FQDN)[0m
+[92m96.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mmail.hackthissite.org[0m[94m (FQDN)[0m
+[92m97.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mmail.hackthissite.org[0m[94m (FQDN)[0m
+[92m98.187.74.137.in-addr.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mmail.hackthissite.org[0m[94m (FQDN)[0m
+[92ma.e.d.1.d.a.b.0.1.0.0.0.0.0.0.0.8.d.c.c.8.0.0.0.0.d.1.4.1.0.0.2.ip6.arpa[0m[94m (FQDN)[0m [97m-->[0m [95mptr_record[0m [97m-->[0m [92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:115[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:116[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:117[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:118[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:119[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.115[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.116[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.117[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.118[0m[94m (IPAddress)[0m
+[92mapi.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.119[0m[94m (IPAddress)[0m
+[92mctf.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mhackthissite.github.io[0m[94m (FQDN)[0m
+[92memail.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92memail.hackmail.org[0m[94m (FQDN)[0m
+[92mforum.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92mforums.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mhackthissite.org[0m[94m (FQDN)[0m
+[92mgit.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:145[0m[94m (IPAddress)[0m
+[92mgit.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.145[0m[94m (IPAddress)[0m
+[92mh5ai.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mhackthissite.github.io[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.100[0m[94m (IPAddress)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.101[0m[94m (IPAddress)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.102[0m[94m (IPAddress)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.103[0m[94m (IPAddress)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.104[0m[94m (IPAddress)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt1.aspmx.l.google.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt2.aspmx.l.google.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx2.googlemail.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx3.googlemail.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx4.googlemail.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx5.googlemail.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx.l.google.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m0-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m0-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m1-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m1-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m2-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m2-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m3-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m3-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m4-v3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92m4-v3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mapi.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mctf.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92memail.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mforum.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mforums.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mgit.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mh5ai.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mhp.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mhub.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mirc.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mirc-hub.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mirc-lille.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mirc-v6.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mirc-wolf.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mirc-www.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mlegal.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mlille.irc-v6.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmail.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmirror.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mpi.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mpsrp.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mqdb.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mstaff.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mstats.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mstatus.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mv3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mv3dev.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mv3stage.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mvm-005.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mvm-050.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mvm-099.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mvm-150.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mvm-200.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mwolf.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mwolf.irc-v6.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mwww.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mwww.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mc.ns.buddyns.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mf.ns.buddyns.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mg.ns.buddyns.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mh.ns.buddyns.com[0m[94m (FQDN)[0m
+[92mhackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mj.ns.buddyns.com[0m[94m (FQDN)[0m
+[92mhp.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.100[0m[94m (IPAddress)[0m
+[92mhub.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mirc-hub.hackthissite.org[0m[94m (FQDN)[0m
+[92mirc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2a02:2770:9:0:21a:4aff:fe68:f705[0m[94m (IPAddress)[0m
+[92mirc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.150[0m[94m (IPAddress)[0m
+[92mirc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m185.24.222.13[0m[94m (IPAddress)[0m
+[92mirc-hub.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2610:150:8007:0:198:148:81:169[0m[94m (IPAddress)[0m
+[92mirc-hub.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m198.148.81.169[0m[94m (IPAddress)[0m
+[92mirc-lille.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92mirc-services.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m198.148.81.169[0m[94m (IPAddress)[0m
+[92mirc-v6.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8::bad:1dea[0m[94m (IPAddress)[0m
+[92mirc-v6.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2a02:2770:9:0:21a:4aff:fe68:f705[0m[94m (IPAddress)[0m
+[92mirc-wolf.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2a02:2770:9:0:21a:4aff:fe68:f705[0m[94m (IPAddress)[0m
+[92mirc-wolf.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m185.24.222.13[0m[94m (IPAddress)[0m
+[92mirc-www.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mwww.irc.hackthissite.org[0m[94m (FQDN)[0m
+[92mlegal.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:137[0m[94m (IPAddress)[0m
+[92mlegal.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:138[0m[94m (IPAddress)[0m
+[92mlegal.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.137[0m[94m (IPAddress)[0m
+[92mlegal.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.138[0m[94m (IPAddress)[0m
+[92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:0:1:bad:1dea[0m[94m (IPAddress)[0m
+[92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:0:a:bad:1dea[0m[94m (IPAddress)[0m
+[92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8::bad:1dea[0m[94m (IPAddress)[0m
+[92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.150[0m[94m (IPAddress)[0m
+[92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.151[0m[94m (IPAddress)[0m
+[92mlille.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.152[0m[94m (IPAddress)[0m
+[92mlille.irc-v6.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:0:1:bad:1dea[0m[94m (IPAddress)[0m
+[92mlille.irc-v6.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:0:a:bad:1dea[0m[94m (IPAddress)[0m
+[92mlille.irc-v6.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8::bad:1dea[0m[94m (IPAddress)[0m
+[92mmirror.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:133[0m[94m (IPAddress)[0m
+[92mmirror.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:134[0m[94m (IPAddress)[0m
+[92mmirror.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.133[0m[94m (IPAddress)[0m
+[92mmirror.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.134[0m[94m (IPAddress)[0m
+[92mpsrp.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mhackmail.org[0m[94m (FQDN)[0m
+[92mqdb.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mirc-www.hackthissite.org[0m[94m (FQDN)[0m
+[92mservices.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mirc-services.hackthissite.org[0m[94m (FQDN)[0m
+[92mstaff.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:146[0m[94m (IPAddress)[0m
+[92mstaff.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.146[0m[94m (IPAddress)[0m
+[92mstats.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:135[0m[94m (IPAddress)[0m
+[92mstats.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2001:41d0:8:ccd8:137:74:187:136[0m[94m (IPAddress)[0m
+[92mstats.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.135[0m[94m (IPAddress)[0m
+[92mstats.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.136[0m[94m (IPAddress)[0m
+[92mstatus.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92medge.redirect.pizza[0m[94m (FQDN)[0m
+[92mstore.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mstore.printfection.com[0m[94m (FQDN)[0m
+[92mv3dev-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mv3dev.hackthissite.org[0m[94m (FQDN)[0m
+[92mv3dev.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2610:150:8007:0:198:148:81:145[0m[94m (IPAddress)[0m
+[92mv3dev.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m198.148.81.145[0m[94m (IPAddress)[0m
+[92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2610:150:8007:0:198:148:81:146[0m[94m (IPAddress)[0m
+[92mv3stage-cdn.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m198.148.81.146[0m[94m (IPAddress)[0m
+[92mv3stage.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2610:150:8007:0:198:148:81:147[0m[94m (IPAddress)[0m
+[92mv3stage.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m198.148.81.147[0m[94m (IPAddress)[0m
+[92mvm-005.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.154[0m[94m (IPAddress)[0m
+[92mvm-050.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.155[0m[94m (IPAddress)[0m
+[92mvm-099.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.159[0m[94m (IPAddress)[0m
+[92mvm-150.outbound.firewall.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.158[0m[94m (IPAddress)[0m
+[92mwolf.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2a02:2770:9:0:21a:4aff:fe68:f705[0m[94m (IPAddress)[0m
+[92mwolf.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m185.24.222.13[0m[94m (IPAddress)[0m
+[92mwolf.irc-v6.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2a02:2770:9:0:21a:4aff:fe68:f705[0m[94m (IPAddress)[0m
+[92mwww.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.100[0m[94m (IPAddress)[0m
+[92mwww.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.101[0m[94m (IPAddress)[0m
+[92mwww.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.102[0m[94m (IPAddress)[0m
+[92mwww.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.103[0m[94m (IPAddress)[0m
+[92mwww.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.104[0m[94m (IPAddress)[0m
+[92mwww.irc.hackthissite.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m137.74.187.153[0m[94m (IPAddress)[0m
+96.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> mail.hackthissite.org (FQDN)
+97.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> mail.hackthissite.org (FQDN)
+98.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> mail.hackthissite.org (FQDN)
+99.187.74.137.in-addr.arpa (FQDN) --> ptr_record --> mail.hackthissite.org (FQDN)
+api.hackthissite.org
+api.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:115 (IPAddress)
+api.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:116 (IPAddress)
+api.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:117 (IPAddress)
+api.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:118 (IPAddress)
+api.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:119 (IPAddress)
+api.hackthissite.org (FQDN) --> a_record --> 137.74.187.115 (IPAddress)
+api.hackthissite.org (FQDN) --> a_record --> 137.74.187.116 (IPAddress)
+api.hackthissite.org (FQDN) --> a_record --> 137.74.187.117 (IPAddress)
+api.hackthissite.org (FQDN) --> a_record --> 137.74.187.118 (IPAddress)
+api.hackthissite.org (FQDN) --> a_record --> 137.74.187.119 (IPAddress)
+	Content-Security-Policy: child-src 'self' hackthissite.org *.hackthissite.org htscdn.org *.htscdn.org discord.com; form-action 'self' hackthissite.org *.hackthissite.org htscdn.org *.htscdn.org; upgrade-insecure-requests; report-uri https://hackthissite.report-uri.com/r/d/csp/enforce
+ctf.hackthissite.org
+ctf.hackthissite.org (FQDN) --> cname_record --> hackthissite.github.io (FQDN)
+daemon.hackthissite.org
+; <<>> DiG 9.20.18-1-Debian <<>> hackthissite.org ANY
+Domain Name: hackthissite.org
+email.hackthissite.org
+email.hackthissite.org (FQDN) --> cname_record --> email.hackmail.org (FQDN)
+forum.hackthissite.org (FQDN) --> cname_record --> hackthissite.org (FQDN)
+forums.hackthissite.org
+forums.hackthissite.org (FQDN) --> cname_record --> hackthissite.org (FQDN)
+git.hackthissite.org
+git.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:145 (IPAddress)
+git.hackthissite.org (FQDN) --> a_record --> 137.74.187.145 (IPAddress)
+h5ai.hackthissite.org
+h5ai.hackthissite.org (FQDN) --> cname_record --> hackthissite.github.io (FQDN)
+hackthissite.org
+hackthissite.org.	2727	IN	NS	c.ns.buddyns.com.
+hackthissite.org.	2727	IN	NS	f.ns.buddyns.com.
+hackthissite.org.	2727	IN	NS	g.ns.buddyns.com.
+hackthissite.org.	2727	IN	NS	h.ns.buddyns.com.
+hackthissite.org.	2727	IN	NS	j.ns.buddyns.com.
+hackthissite.org.	2728	IN	A	137.74.187.100
+hackthissite.org.	2728	IN	A	137.74.187.101
+hackthissite.org.	2728	IN	A	137.74.187.102
+hackthissite.org.	2728	IN	A	137.74.187.103
+hackthissite.org.	2728	IN	A	137.74.187.104
+hackthissite.org.	2728	IN	CAA	0 iodef "mailto:admin@hackthissite.org"
+hackthissite.org.	2728	IN	CAA	0 issue "harica.gr"
+hackthissite.org.	2728	IN	CAA	0 issue "letsencrypt.org"
+hackthissite.org.	2728	IN	CAA	0 issue "sectigo.com"
+hackthissite.org.	2728	IN	CAA	0 issuewild "harica.gr"
+hackthissite.org.	2728	IN	CAA	0 issuewild "letsencrypt.org"
+hackthissite.org.	2728	IN	CAA	0 issuewild "sectigo.com"
+hackthissite.org.	2728	IN	MX	10 aspmx.l.google.com.
+hackthissite.org.	2728	IN	MX	20 alt1.aspmx.l.google.com.
+hackthissite.org.	2728	IN	MX	20 alt2.aspmx.l.google.com.
+hackthissite.org.	2728	IN	MX	30 aspmx2.googlemail.com.
+hackthissite.org.	2728	IN	MX	30 aspmx3.googlemail.com.
+hackthissite.org.	2728	IN	MX	30 aspmx4.googlemail.com.
+hackthissite.org.	2728	IN	MX	30 aspmx5.googlemail.com.
+hackthissite.org.	2728	IN	SOA	c.ns.buddyns.com. admin.hackthissite.org. 2025032501 3600 900 1209600 3600
+hackthissite.org.	2728	IN	SPF	"v=spf1 a mx ip4:137.74.187.96 ip4:137.74.187.97 ip4:137.74.187.98 a:mail.hackthissite.org include:aspmx.googlemail.com include:spf.hackmail.org -all"
+hackthissite.org.	2728	IN	TXT	"Harica-PM9RrLqWMFZXTJCoEoK"
+hackthissite.org.	2728	IN	TXT	"t-verify=e3f12c9c23e2e475563590326df31a12"
+hackthissite.org.	2728	IN	TXT	"v=spf1 a mx ip4:137.74.187.96 ip4:137.74.187.97 ip4:137.74.187.98 a:mail.hackthissite.org include:aspmx.googlemail.com include:spf.hackmail.org -all"
+hackthissite.org (FQDN) --> a_record --> 137.74.187.100 (IPAddress)
+hackthissite.org (FQDN) --> a_record --> 137.74.187.101 (IPAddress)
+hackthissite.org (FQDN) --> a_record --> 137.74.187.102 (IPAddress)
+hackthissite.org (FQDN) --> a_record --> 137.74.187.103 (IPAddress)
+hackthissite.org (FQDN) --> a_record --> 137.74.187.104 (IPAddress)
+hackthissite.org (FQDN) --> mx_record --> alt1.aspmx.l.google.com (FQDN)
+hackthissite.org (FQDN) --> mx_record --> alt2.aspmx.l.google.com (FQDN)
+hackthissite.org (FQDN) --> mx_record --> aspmx2.googlemail.com (FQDN)
+hackthissite.org (FQDN) --> mx_record --> aspmx3.googlemail.com (FQDN)
+hackthissite.org (FQDN) --> mx_record --> aspmx4.googlemail.com (FQDN)
+hackthissite.org (FQDN) --> mx_record --> aspmx5.googlemail.com (FQDN)
+hackthissite.org (FQDN) --> mx_record --> aspmx.l.google.com (FQDN)
+hackthissite.org (FQDN) --> ns_record --> c.ns.buddyns.com (FQDN)
+hackthissite.org (FQDN) --> ns_record --> f.ns.buddyns.com (FQDN)
+hackthissite.org (FQDN) --> ns_record --> g.ns.buddyns.com (FQDN)
+hackthissite.org (FQDN) --> ns_record --> h.ns.buddyns.com (FQDN)
+hackthissite.org (FQDN) --> ns_record --> j.ns.buddyns.com (FQDN)
+;hackthissite.org.		IN	ANY
+hp.hackthissite.org
+hp.hackthissite.org (FQDN) --> a_record --> 137.74.187.100 (IPAddress)
+htsv4.hackthissite.org
+hub.irc.hackthissite.org
+hub.irc.hackthissite.org (FQDN) --> cname_record --> irc-hub.hackthissite.org (FQDN)
+irc.hackthissite.org
+irc.hackthissite.org (FQDN) --> aaaa_record --> 2a02:2770:9:0:21a:4aff:fe68:f705 (IPAddress)
+irc.hackthissite.org (FQDN) --> a_record --> 137.74.187.150 (IPAddress)
+irc.hackthissite.org (FQDN) --> a_record --> 185.24.222.13 (IPAddress)
+irc-hub.hackthissite.org
+irc-hub.hackthissite.org (FQDN) --> aaaa_record --> 2610:150:8007:0:198:148:81:169 (IPAddress)
+irc-hub.hackthissite.org (FQDN) --> a_record --> 198.148.81.169 (IPAddress)
+irc-ipv6.hackthissite.org
+irc-lille.hackthissite.org
+irc-lille.hackthissite.org (FQDN) --> cname_record --> lille.irc.hackthissite.org (FQDN)
+irc-v6.hackthissite.org
+irc-v6.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8::bad:1dea (IPAddress)
+irc-v6.hackthissite.org (FQDN) --> aaaa_record --> 2a02:2770:9:0:21a:4aff:fe68:f705 (IPAddress)
+irc-wolf.hackthissite.org
+irc-wolf.hackthissite.org (FQDN) --> aaaa_record --> 2a02:2770:9:0:21a:4aff:fe68:f705 (IPAddress)
+irc-wolf.hackthissite.org (FQDN) --> a_record --> 185.24.222.13 (IPAddress)
+irc-www.hackthissite.org
+irc-www.hackthissite.org (FQDN) --> cname_record --> www.irc.hackthissite.org (FQDN)
+jupiter.hackthissite.org
+legal.hackthissite.org
+legal.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:137 (IPAddress)
+legal.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:138 (IPAddress)
+legal.hackthissite.org (FQDN) --> a_record --> 137.74.187.137 (IPAddress)
+legal.hackthissite.org (FQDN) --> a_record --> 137.74.187.138 (IPAddress)
+lille.irc.hackthissite.org
+lille.irc.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:0:1:bad:1dea (IPAddress)
+lille.irc.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:0:a:bad:1dea (IPAddress)
+lille.irc.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8::bad:1dea (IPAddress)
+lille.irc.hackthissite.org (FQDN) --> a_record --> 137.74.187.150 (IPAddress)
+lille.irc.hackthissite.org (FQDN) --> a_record --> 137.74.187.151 (IPAddress)
+lille.irc.hackthissite.org (FQDN) --> a_record --> 137.74.187.152 (IPAddress)
+lille.irc-v6.hackthissite.org
+lille.irc-v6.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:0:1:bad:1dea (IPAddress)
+lille.irc-v6.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:0:a:bad:1dea (IPAddress)
+lille.irc-v6.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8::bad:1dea (IPAddress)
+mail.hackthissite.org
+mirror.hackthissite.org
+mirror.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:133 (IPAddress)
+mirror.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:134 (IPAddress)
+mirror.hackthissite.org (FQDN) --> a_record --> 137.74.187.133 (IPAddress)
+mirror.hackthissite.org (FQDN) --> a_record --> 137.74.187.134 (IPAddress)
+mta-sts.hackthissite.org
+new-irc.hackthissite.org
+ns1.hackthissite.org
+ns2.hackthissite.org
+pi.hackthissite.org
+psrp.hackthissite.org
+psrp.hackthissite.org (FQDN) --> cname_record --> hackmail.org (FQDN)
+qdb.hackthissite.org
+qdb.hackthissite.org (FQDN) --> cname_record --> irc-www.hackthissite.org (FQDN)
+shadow.hackthissite.org
+staff.hackthissite.org
+staff.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:146 (IPAddress)
+staff.hackthissite.org (FQDN) --> a_record --> 137.74.187.146 (IPAddress)
+stats.hackthissite.org
+stats.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:135 (IPAddress)
+stats.hackthissite.org (FQDN) --> aaaa_record --> 2001:41d0:8:ccd8:137:74:187:136 (IPAddress)
+stats.hackthissite.org (FQDN) --> a_record --> 137.74.187.135 (IPAddress)
+stats.hackthissite.org (FQDN) --> a_record --> 137.74.187.136 (IPAddress)
+status.hackthissite.org
+status.hackthissite.org (FQDN) --> cname_record --> edge.redirect.pizza (FQDN)
+status-new.hackthissite.org
+v3dev-cdn.hackthissite.org
+v3dev-cdn.hackthissite.org (FQDN) --> cname_record --> v3dev.hackthissite.org (FQDN)
+v3dev.hackthissite.org
+v3dev.hackthissite.org (FQDN) --> aaaa_record --> 2610:150:8007:0:198:148:81:145 (IPAddress)
+v3dev.hackthissite.org (FQDN) --> a_record --> 198.148.81.145 (IPAddress)
+v3stage-cdn.hackthissite.org
+v3stage-cdn.hackthissite.org (FQDN) --> aaaa_record --> 2610:150:8007:0:198:148:81:146 (IPAddress)
+v3stage-cdn.hackthissite.org (FQDN) --> a_record --> 198.148.81.146 (IPAddress)
+v3stage.hackthissite.org
+v3stage.hackthissite.org (FQDN) --> aaaa_record --> 2610:150:8007:0:198:148:81:147 (IPAddress)
+v3stage.hackthissite.org (FQDN) --> a_record --> 198.148.81.147 (IPAddress)
+vm-005.outbound.firewall.hackthissite.org
+vm-005.outbound.firewall.hackthissite.org (FQDN) --> a_record --> 137.74.187.154 (IPAddress)
+vm-050.outbound.firewall.hackthissite.org
+vm-050.outbound.firewall.hackthissite.org (FQDN) --> a_record --> 137.74.187.155 (IPAddress)
+vm-099.outbound.firewall.hackthissite.org
+vm-099.outbound.firewall.hackthissite.org (FQDN) --> a_record --> 137.74.187.159 (IPAddress)
+vm-150.outbound.firewall.hackthissite.org
+vm-150.outbound.firewall.hackthissite.org (FQDN) --> a_record --> 137.74.187.158 (IPAddress)
+vm-200.outbound.firewall.hackthissite.org
+vm-200.outbound.firewall.hackthissite.org (FQDN) --> a_record --> 137.74.187.157 (IPAddress)
+WhatWeb report for [1m[34mhttps://hackthissite.org[0m
+wolf.irc.hackthissite.org
+wolf.irc.hackthissite.org (FQDN) --> aaaa_record --> 2a02:2770:9:0:21a:4aff:fe68:f705 (IPAddress)
+wolf.irc.hackthissite.org (FQDN) --> a_record --> 185.24.222.13 (IPAddress)
+wolf.irc-v6.hackthissite.org
+wolf.irc-v6.hackthissite.org (FQDN) --> aaaa_record --> 2a02:2770:9:0:21a:4aff:fe68:f705 (IPAddress)
+www.hackthissite.org
+www.hackthissite.org (FQDN) --> a_record --> 137.74.187.100 (IPAddress)
+www.hackthissite.org (FQDN) --> a_record --> 137.74.187.101 (IPAddress)
+www.hackthissite.org (FQDN) --> a_record --> 137.74.187.102 (IPAddress)
+www.hackthissite.org (FQDN) --> a_record --> 137.74.187.103 (IPAddress)
+www.hackthissite.org (FQDN) --> a_record --> 137.74.187.104 (IPAddress)
+www.irc.hackthissite.org
+www.irc.hackthissite.org (FQDN) --> a_record --> 137.74.187.153 (IPAddress)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
