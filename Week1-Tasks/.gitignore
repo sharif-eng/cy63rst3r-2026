@@ -1,0 +1,2 @@
+#Ignore Host-Resolved IPs in .csv files.
+Cleaned/resolved_ips.csv
