@@ -1,0 +1,46 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-03-14 10:12 -0400
+No profinet devices in the subnet
+Pre-scan script results:
+| targets-ipv6-multicast-invalid-dst: 
+|   IP: fe80::a00:27ff:fe4f:475a  MAC: 08:00:27:4f:47:5a  IFACE: eth0
+|_  Use --script-args=newtargets to add the results as targets
+| eap-info: 
+| Available authentication methods with identity="anonymous" on interface eth0
+|   unknown  EAP-TTLS
+|   unknown  EAP-TLS
+|   unknown  EAP-MSCHAP-V2
+|_  unknown  PEAP
+|_hostmap-robtex: *TEMPORARILY DISABLED* due to changes in Robtex's API. See https://www.robtex.com/api/
+| broadcast-dhcp-discover: 
+|   Response 1 of 1: 
+|     Interface: eth0
+|     IP Offered: 192.168.1.6
+|     Server Identifier: 192.168.1.2
+|     Subnet Mask: 255.255.255.0
+|     Router: 192.168.1.1
+|     Domain Name Server: 192.168.1.1
+|_    Domain Name: home
+| targets-asn: 
+|_  targets-asn.asn is a mandatory parameter
+|_http-robtex-shared-ns: *TEMPORARILY DISABLED* due to changes in Robtex's API. See https://www.robtex.com/api/
+| targets-ipv6-multicast-mld: 
+|   IP: fe80::a00:27ff:fe4f:475a  MAC: 08:00:27:4f:47:5a  IFACE: eth0
+| 
+|_  Use --script-args=newtargets to add the results as targets
+| targets-ipv6-multicast-echo: 
+|   IP: fe80::a00:27ff:fe4f:475a  MAC: 08:00:27:4f:47:5a  IFACE: eth0
+|_  Use --script-args=newtargets to add the results as targets
+| targets-sniffer: Sniffed 13 address(es). 
+| 192.168.1.2
+| 192.168.1.1
+| 224.0.0.251
+| 239.255.255.250
+| 239.255.255.253
+| 224.0.0.9
+| fe80::59e:7095:d10d:efc2
+| 0.0.0.0
+| fe80::a00:27ff:fe4f:475a
+| c0a8:103::
+| 224.0.0.1
+| 224.0.0.13
+|_224.0.23.12

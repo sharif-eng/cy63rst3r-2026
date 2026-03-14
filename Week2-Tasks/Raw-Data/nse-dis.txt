@@ -1,0 +1,36 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-03-14 10:16 -0400
+No profinet devices in the subnet
+Pre-scan script results:
+| targets-ipv6-multicast-invalid-dst: 
+|   IP: fe80::a00:27ff:fe4f:475a  MAC: 08:00:27:4f:47:5a  IFACE: eth0
+|_  Use --script-args=newtargets to add the results as targets
+| ipv6-multicast-mld-list: 
+|   fe80::a00:27ff:fe4f:475a: 
+|     device: eth0
+|     mac: 08:00:27:4f:47:5a
+|     multicast_ips: 
+|_      ff02::1:ff4f:475a         (NDP Solicited-node)
+| targets-sniffer: Sniffed 9 address(es). 
+| 192.168.1.1
+| fe80::a00:27ff:fe63:b005
+| c0a8:103::
+| fe80::59e:7095:d10d:efc2
+| fe80::a00:27ff:fe4f:475a
+| 224.0.0.1
+| 224.0.0.13
+| ::
+|_224.0.23.12
+| targets-ipv6-multicast-slaac: 
+|   IP: fe80::a00:27ff:fe4f:475a  MAC: 08:00:27:4f:47:5a  IFACE: eth0
+|_  Use --script-args=newtargets to add the results as targets
+| targets-ipv6-multicast-mld: 
+|   IP: fe80::a00:27ff:fe4f:475a  MAC: 08:00:27:4f:47:5a  IFACE: eth0
+| 
+|_  Use --script-args=newtargets to add the results as targets
+|_http-robtex-shared-ns: *TEMPORARILY DISABLED* due to changes in Robtex's API. See https://www.robtex.com/api/
+| targets-ipv6-multicast-echo: 
+|   IP: fe80::a00:27ff:fe4f:475a  MAC: 08:00:27:4f:47:5a  IFACE: eth0
+|_  Use --script-args=newtargets to add the results as targets
+| targets-asn: 
+|_  targets-asn.asn is a mandatory parameter
+|_hostmap-robtex: *TEMPORARILY DISABLED* due to changes in Robtex's API. See https://www.robtex.com/api/
