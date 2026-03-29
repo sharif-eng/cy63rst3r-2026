@@ -1,0 +1,22 @@
+200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Access-Control-Allow-Origin: *
+Content-Security-Policy: child-src 'self' hackthissite.org *.hackthissite.org htscdn.org *.htscdn.org discord.com; form-action 'self' hackthissite.org *.hackthissite.org htscdn.org *.htscdn.org; upgrade-insecure-requests; report-uri https://hackthissite.report-uri.com/r/d/csp/enforce
+Feature-Policy: fullscreen *
+Onion-Location: http://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion/
+Content-Language: en
+Server: HackThisSite
+X-Xss-Protection: 0
+Public-Key-Pins-Report-Only: pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; max-age=2592000; includeSubDomains; report-uri="https://hackthissite.report-uri.com/r/d/hpkp/reportOnly"
+Retry-Count: 0
+Date: Fri, 06 Mar 2026 13:12:33 GMT
+Referrer-Policy: origin-when-cross-origin
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Set-Cookie: HackThisSite=rse55km69dfd5g16lkver91bi6; expires=Sat, 07-Mar-2026 13:12:33 GMT; path=/
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://hackthissite.report-uri.com/a/d/g"}],"include_subdomains":true}
+Upgrade: h2,h2c
+Nel: {"report_to":"default","max_age":31536000,"include_subdomains":true,"success_fraction":0.0,"failure_fraction":0.1}

@@ -1,0 +1,28 @@
+Week 4 Tasks
+Target: dvwa coz i got issues with mutillidae.
+  Task 01:
+Configuring burp and foxyproxy.
+Using intercept to modify request.
+Using repeaters to replay requests.
+Using intruder for simple dictionary attacks.
+ 
+ Task 02:
+Command Injection.
+Testing SQLi using burp and sqlmap
+   payloads: Boolean logic.
+             Order-by.
+             Union select.ie version(), user() etc
+             
+Task 03: 
+Broken Access
+      Here i loged-in as cy63rst3r-int3rn captured request and changed role to admin
+IDOR.
+     Here i chose text-file-viewer and captured request, changed to source-viewer 
+
+
+Task 04:
+XSS
+   Reflected and stored xss
+Local File Inclusion
+  /etc/passwd
+             
