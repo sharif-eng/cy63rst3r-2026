@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE items [
+<!ELEMENT items (item*)>
+<!ATTLIST items burpVersion CDATA "">
+<!ATTLIST items exportTime CDATA "">
+<!ELEMENT item (time, url, host, port, protocol, method, path, extension, request, status, responselength, mimetype, response, comment)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT host (#PCDATA)>
+<!ATTLIST host ip CDATA "">
+<!ELEMENT port (#PCDATA)>
+<!ELEMENT protocol (#PCDATA)>
+<!ELEMENT method (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT request (#PCDATA)>
+<!ATTLIST request base64 (true|false) "false">
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT responselength (#PCDATA)>
+<!ELEMENT mimetype (#PCDATA)>
+<!ELEMENT response (#PCDATA)>
+<!ATTLIST response base64 (true|false) "false">
+<!ELEMENT comment (#PCDATA)>
+]>
+<items burpVersion="2026.2.3" exportTime="Sun Mar 29 09:28:37 EDT 2026">
+  <item>
+    <time>Sun Mar 29 09:14:48 EDT 2026</time>
+    <url><![CDATA[http://192.168.1.4/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit]]></url>
+    <host ip="192.168.1.4">192.168.1.4</host>
+    <port>80</port>
+    <protocol>http</protocol>
+    <method><![CDATA[GET]]></method>
+    <path><![CDATA[/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit]]></path>
+    <extension>null</extension>
+    <request base64="true"><![CDATA[R0VUIC9kdndhL3Z1bG5lcmFiaWxpdGllcy9zcWxpLz9pZD0xJlN1Ym1pdD1TdWJtaXQgSFRUUC8xLjENCkhvc3Q6IDE5Mi4xNjguMS40DQpVc2VyLUFnZW50OiBNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2OjE0MC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MC4wDQpBY2NlcHQ6IHRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LCovKjtxPTAuOA0KQWNjZXB0LUxhbmd1YWdlOiBlbi1VUyxlbjtxPTAuNQ0KQWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlLCBicg0KQ29ubmVjdGlvbjoga2VlcC1hbGl2ZQ0KUmVmZXJlcjogaHR0cDovLzE5Mi4xNjguMS40L2R2d2EvdnVsbmVyYWJpbGl0aWVzL3NxbGkvP2lkPTImU3VibWl0PVN1Ym1pdA0KQ29va2llOiBzZWN1cml0eT1sb3c7IFBIUFNFU1NJRD1mOGYzNjI2YjMzYTU5ZDM3NWMwODEzMDc5ZTQ0NjM0Ng0KVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0czogMQ0KUHJpb3JpdHk6IHU9MCwgaQ0KDQo=]]></request>
+    <status></status>
+    <responselength></responselength>
+    <mimetype></mimetype>
+    <response base64="true"></response>
+    <comment></comment>
+  </item>
+</items>

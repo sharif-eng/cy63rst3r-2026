@@ -1,0 +1,2 @@
+RFI_TEST
+If this file shows up in browser, then remote file inclusion confirmed and this can lead to webshell
